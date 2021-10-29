@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+}
+.languageLogos {
+  height: 75px;
+  margin-right: 5px;
+}
+a,
+a:visited {
+  color: white;
+}
